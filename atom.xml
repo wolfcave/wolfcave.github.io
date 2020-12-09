@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wolfcave.github.io</id>
+    <title>wolfcave</title>
+    <updated>2020-12-09T04:42:39.079Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wolfcave.github.io"/>
+    <link rel="self" href="https://wolfcave.github.io/atom.xml"/>
+    <subtitle>与世无争。</subtitle>
+    <logo>https://wolfcave.github.io/images/avatar.png</logo>
+    <icon>https://wolfcave.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, wolfcave</rights>
+    <entry>
+        <title type="html"><![CDATA[我与我周旋久，宁做我。]]></title>
+        <id>https://wolfcave.github.io/post/Mwolf/</id>
+        <link href="https://wolfcave.github.io/post/Mwolf/">
+        </link>
+        <updated>2020-12-08T16:00:00.000Z</updated>
+    </entry>
+</feed>
