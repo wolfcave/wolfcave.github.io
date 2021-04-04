@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wolfcave.github.io</id>
     <title>wolfcave</title>
-    <updated>2021-04-04T00:17:42.813Z</updated>
+    <updated>2021-04-04T14:36:31.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wolfcave.github.io"/>
     <link rel="self" href="https://wolfcave.github.io/atom.xml"/>
@@ -11,14 +11,25 @@
     <icon>https://wolfcave.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, wolfcave</rights>
     <entry>
+        <title type="html"><![CDATA[【小狼成才日记】第一章——重启]]></title>
+        <id>https://wolfcave.github.io/post/xiao-lang-cheng-cai-ri-ji-di-yi-zhang-chong-qi/</id>
+        <link href="https://wolfcave.github.io/post/xiao-lang-cheng-cai-ri-ji-di-yi-zhang-chong-qi/">
+        </link>
+        <updated>2021-04-04T14:33:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>重启我的生活吧！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>重启我的生活吧！</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小狼成才日记——序章]]></title>
         <id>https://wolfcave.github.io/post/xiao-lang-cheng-cai-ri-ji-xu-zhang/</id>
         <link href="https://wolfcave.github.io/post/xiao-lang-cheng-cai-ri-ji-xu-zhang/">
         </link>
         <updated>2021-04-04T00:11:13.000Z</updated>
-        <summary type="html"><![CDATA[<p>凡是过往，皆为序章。</p>
+        <summary type="html"><![CDATA[<p>survive,live,and thrive.</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>凡是过往，皆为序章。</p>
+        <content type="html"><![CDATA[<p>survive,live,and thrive.</p>
 ]]></content>
     </entry>
     <entry>
